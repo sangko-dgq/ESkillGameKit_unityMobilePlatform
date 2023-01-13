@@ -1,8 +1,6 @@
 @echo on
 chcp 65001
 
-
-
 :begin
 color 1F & set /p choice=Are you sure you want to continue? (y/n)
 if /i "%choice%"=="y" goto continue
@@ -17,7 +15,7 @@ git add .
 git commit -m "update notes"
 
 color 2F & echo Start upload to github.......
-git push origin main
+git push origin master
 
 
 :end
