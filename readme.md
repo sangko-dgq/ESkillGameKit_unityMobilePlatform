@@ -1,6 +1,6 @@
 ## CharacterSkillGameKit
 
-**platform** : unity/mobile
+**platform** - unity/mobile
 
 **by** *sangko.deng*
 
