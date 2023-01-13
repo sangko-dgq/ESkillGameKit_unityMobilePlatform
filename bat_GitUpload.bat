@@ -1,7 +1,5 @@
 @echo off
 
-
-
 rem Add all changes to the staging area
 git add .
 
@@ -22,3 +20,5 @@ git commit -m "%message%"
 
 rem Push the changes to the remote repository
 git push origin %branch%
+
+pause
