@@ -1,4 +1,4 @@
-@echo on
+@echo off
 chcp 65001
 
 :begin
