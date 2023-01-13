@@ -12,7 +12,7 @@ goto begin
 echo Continuing...
 
 git add .
-git commit -m "update notes"
+git commit -m "update kits"
 
 color 2F & echo Start upload to github.......
 git push origin master
