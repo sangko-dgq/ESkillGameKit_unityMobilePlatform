@@ -19,9 +19,6 @@ git push origin master
 
 
 :end
-echo Exiting...
-
-
-echo Press any key to exit..
+color 1F echo Press any key to exit..
 pause
 
