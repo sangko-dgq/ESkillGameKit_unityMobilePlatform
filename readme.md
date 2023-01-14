@@ -14,7 +14,7 @@
 
 - character controller
 
-![sidec](readme.assets/sidec.gif)
+![sidec](readme.assets/move.gif)
 
 - camera controller
 
