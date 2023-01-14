@@ -4,6 +4,12 @@
 
 **by** *sangko.deng*
 
+------
+
+#### **Scene example**
+
+![image-20230114081257891](readme.assets/image-20230114081257891.png)]
+
 ### Provide the following functions
 
 - character controller
@@ -17,4 +23,6 @@
 - skill system / vfx
 
 ![skill](readme.assets/skill.gif)
+
+
 
